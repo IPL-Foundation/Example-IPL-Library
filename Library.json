@@ -1,0 +1,6 @@
+{
+    "name": "ExampleLib",
+    "version": "1.2.0",
+    "entry": "src/main.ipl",
+    "dependencies": []
+}
