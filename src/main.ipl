@@ -1,4 +1,8 @@
 
+test = 5
+a = 3
+b = 10
+
 def add(a, b)
     return a + b
 
@@ -22,3 +26,4 @@ def power(base, exponent)
         i = add(i, 1)
     return result
 
+c = add(a, b) # 13
