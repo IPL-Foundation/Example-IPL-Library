@@ -1,4 +1,4 @@
 # Example-IPL-Library
-An example library for IPL
+An example library for [IPL](https://github.com/I-had-a-bad-idea/IPL)
 
-Also used for testing
+Use it with [ILI](https://github.com/I-had-a-bad-idea/ILI)
